@@ -1,0 +1,62 @@
+body{
+background-image: url(https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/descubre-los-6-lenguajes-de-programacion-con-mas-demanda-en-el-2023.jpg);
+background-size:cover;
+}
+section.seccion{
+ margin-left: 30%;
+background: rgba(0,0,0, .4);
+width: 600px;
+height: 700px;
+color:white;
+
+}
+img{
+    max-width: 200px;
+    border-radius: 50%;
+    margin-left:33%;
+}
+h1{
+    text-align: center;
+    letter-spacing: 4px;
+}
+h2{
+    text-align: center;
+}
+#edad{
+    display:none;
+    max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+  margin-left:5%;
+}
+#educacion{
+  display:none;
+    max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+  
+}
+#conocimientos{
+  display:none;
+    max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+  
+}
+#idiomas{
+  display:none;
+    max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+  margin-left:68%;
+}
+.btn.btn-primary{
+    
+    width: 120px;
+    
+    
+}
+div.division{
+  margin-left:10%;
+  margin-top: 5%;
+}
